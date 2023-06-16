@@ -4,10 +4,10 @@
 			<p class="m-0">
 				vue.js + nuxt + pinia practice @
 				<a
-					href="#"
-					class="text-black"
-					>github</a
-				>
+					href="https://github.com/spiritius/vuejs-recipes-practice/"
+					class="text-black">
+					github
+				</a>
 			</p>
 		</div>
 	</div>
