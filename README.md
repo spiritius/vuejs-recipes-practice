@@ -2,6 +2,8 @@
 
 Небольшое приложение с адаптивной версткой, создавалось в целях практики со стеком Vue3 + Nuxt3 + Pinia
 
+[Демо](https://main--marvelous-capybara-c417a5.netlify.app/)
+
 Бесплатная API рецептов: https://www.themealdb.com
 
 ### Структура:
@@ -15,6 +17,8 @@
 ## Recipes app
 
 Little recipes app made of Vue3 + Nuxt3 + Pinia
+
+[Demo](https://main--marvelous-capybara-c417a5.netlify.app/)
 
 Free meal API: https://www.themealdb.com
 
